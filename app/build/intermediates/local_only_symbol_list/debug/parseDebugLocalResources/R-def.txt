@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+color bg
+drawable ic_launcher
+style Theme.Kuba
